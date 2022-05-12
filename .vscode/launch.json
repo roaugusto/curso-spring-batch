@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringbatchApplication<springbatch>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.digos.springbatch.SpringbatchApplication",
+      "projectName": "springbatch",
+      "args": "name=Rodrigo",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
